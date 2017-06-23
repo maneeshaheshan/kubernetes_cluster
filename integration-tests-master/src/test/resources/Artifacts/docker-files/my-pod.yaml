@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: private-reg
+spec:
+  containers:
+    - name: private-reg-container
+      image: dockerhub.private.wso2.com/maneesha-ubuntu-16.04_oracle-java-8.121:1.0
+  imagePullSecrets:
+    - name: regsecret
