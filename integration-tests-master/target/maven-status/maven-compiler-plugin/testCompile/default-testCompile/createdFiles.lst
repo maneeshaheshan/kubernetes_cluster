@@ -1,6 +1,0 @@
-org/das/tests/connectors/rdbms/transactions/RDBMSTransactions.class
-org/das/tests/base/DASConstants.class
-org/das/tests/base/DASBaseTest.class
-org/das/tests/routing/EchoService.class
-org/das/tests/TestConstants.class
-org/das/tests/base/DASInit.class

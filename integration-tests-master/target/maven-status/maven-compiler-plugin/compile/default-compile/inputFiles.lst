@@ -1,9 +1,0 @@
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/commons/DeploymentDataReader.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/beans/InstanceUrls.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/commons/DeploymentConfigurationReader.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/FrameworkConstants.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/commons/DeploymentYamlConstants.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/beans/Port.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/commons/GenericYamlParser.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/beans/Deployment.java
-/home/maneesha/Desktop/Test_DAS/integration-tests-master/src/main/java/org/das/integration/tests/core/utills/ScriptExecutorUtil.java
